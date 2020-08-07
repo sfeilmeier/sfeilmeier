@@ -1,4 +1,4 @@
-![GitHub Logo](/background.jpg)
+![OpenEMS - FEMS - FENECON](https://github.com/sfeilmeier/sfeilmeier/raw/master/background.jpg)
 
 Hi I'm Stefan. I am based in Germany, working as Head of Energy Management Systems at [FENECON GmbH](https://fenecon.de) and I am Chairman at the [OpenEMS Association e.V.](https://openems.io/association/) 
 
