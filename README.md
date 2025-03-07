@@ -2,7 +2,7 @@
 
 Hi I'm Stefan. I am based in Germany, working as Head of Energy Management Systems at [FENECON GmbH](https://fenecon.de) and I am Chairman at the [OpenEMS Association e.V.](https://openems.io/association/) 
 
-As 'employee of the first hour' I am working for FENECON since 2012 where meanwhile I am Procurist and commissioned to leading the IT department. My focus is on the development of FENECON Energy Management System ("FEMS"), which is used with standard products and in projects to manage energy storage sytems and complementary devices and services.
+As 'employee of the first hour' I am working for FENECON since 2012. My focus is on the development of FENECON Energy Management System ("FEMS"), which is used with standard products and in projects to manage energy storage sytems and complementary devices and services.
 
 As an officer in German Air Force I quickly had the chance to take over leadership responsibilities. I laid the expertise foundation in an apprenticeship as IT specialist, bachelor studies of Business Informatics and a master studies in Embedded Systems.
 
